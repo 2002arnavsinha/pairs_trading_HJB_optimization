@@ -8,3 +8,6 @@ likelihood, and Geometric Brownian Motion simulations to model asset prices and 
 
 ● Backtested real-world and simulated data with transaction cost modeling, achieving above-average returns while highlighting 
 challenges in adapting to non-stationary markets. 
+
+<img width="672" alt="image" src="https://github.com/user-attachments/assets/4b0ad06a-b01d-4745-a945-0cf19b434c80" />
+
